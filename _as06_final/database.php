@@ -7,7 +7,7 @@ class Database {
 	private static $dbName         = 'jmusarra355wi20' ; 
 	private static $dbHost         = '10.8.30.49' ;
 	private static $dbUsername     = 'jmusarra355wi20';
-	private static $dbUserPassword = 'jmusarradbwi20v1l';
+	private static $dbUserPassword = 'not my password';
 	
 	// declare and initialize PDO instance variable: $connection
 	private static $connection  = null;
